@@ -16,7 +16,7 @@ spec:
         app: gcp
     spec:
       containers:
-      - image: gcr.io/qwiklabs-gcp-01-c7b88bdef9fd/gcpdevops:latest
+      - image: gcr.io/qwiklabs-gcp-01-6959d285e80b/gcpdevops:latest
         name: gcpdevops
         ports:
         - containerPort: 5000
